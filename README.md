@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix Neural Magic links (#9144)
