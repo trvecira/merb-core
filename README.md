@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix ONNX GPU inference bug (#6840)
