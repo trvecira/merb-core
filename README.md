@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
