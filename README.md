@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
