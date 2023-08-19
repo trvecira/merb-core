@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
