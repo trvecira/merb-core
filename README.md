@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
