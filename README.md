@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+* fix for KeyError: 'epoch'
