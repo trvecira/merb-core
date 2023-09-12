@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+fix export tensorrt with dynamic size
