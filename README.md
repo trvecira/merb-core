@@ -1,1 +1,1 @@
-fix predict with class filter
+Update pyproject.toml and Docs (#7274)
