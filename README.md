@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Rename model_id to model.id (#8447)
