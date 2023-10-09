@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add plot_images conf_thresh parameter (#8446)
