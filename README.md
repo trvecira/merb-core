@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
