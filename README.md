@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix OpenVINO missing batch-size bug (#9264)
