@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
