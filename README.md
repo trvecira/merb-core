@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add visuals in guides/distance-calculation.md (#7876)
