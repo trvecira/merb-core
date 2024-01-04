@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add plot_images conf_thresh parameter (#8446)
