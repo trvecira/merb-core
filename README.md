@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
