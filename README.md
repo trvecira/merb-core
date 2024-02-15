@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
