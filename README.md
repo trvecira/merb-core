@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
