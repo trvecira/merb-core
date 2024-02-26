@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
