@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Object Counter improvements (#8648)
