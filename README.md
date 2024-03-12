@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Improve Coral Edge TPU guide (#8160)
