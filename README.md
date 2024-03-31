@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+TensorRT FP16 export with dynamic=True (#7870)
