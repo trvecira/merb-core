@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
