@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Explorer with LanceDB, Actions and Docs updates (#7487)
