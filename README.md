@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+docs: update view-results-in-terminal.md (#66)
