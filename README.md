@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Docs partial mdformat improvements (#7378)
