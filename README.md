@@ -1,1 +1,1 @@
-fix val each epoch
+Update neural-magic.md (#7347)
